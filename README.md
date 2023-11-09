@@ -1,2 +1,2 @@
 # profile
-Onliine Curriculum Vitae
+Online Curriculum Vitae
